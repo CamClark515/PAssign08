@@ -1,4 +1,9 @@
-
+//File: PAssign08
+//Class: CSCI 1302
+//Author: Cameron Clark, David Camp
+//Created on: 11/14/2026
+//Last Modified: 11/19/2026
+//Description: Staging and information for plant database
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Collection;
