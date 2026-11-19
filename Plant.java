@@ -1,4 +1,4 @@
-//File: PAssign08
+//File: Plant.java
 //Class: CSCI 1302
 //Author: Cameron Clark, David Camp
 //Created on: 11/14/2026
