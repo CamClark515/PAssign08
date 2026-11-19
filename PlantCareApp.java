@@ -1,4 +1,9 @@
-
+//File: PlantCareApp
+//Class: CSCI 1302
+//Author: Cameron Clark, David Camp
+//Created on: 11/13/2026
+//Last Modified: 11/19/2026
+//Description: GUI setting with buttons and text
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
