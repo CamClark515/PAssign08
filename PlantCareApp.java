@@ -21,7 +21,7 @@ import javafx.scene.layout.HBox;
 import javafx.scene.control.ScrollPane;
 import javafx.stage.Stage;
 
-public class PlantCareApp extends Application {
+public class PAssign08b extends Application {
 
     private String selectedPlant = "";
     private String selectedStage = "";
